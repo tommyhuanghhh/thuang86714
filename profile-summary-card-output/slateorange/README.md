@@ -45,6 +45,16 @@
 
 ---
 
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/tommyhuanghhh/thuang86714/master/profile-summary-card-output/slateorange/3-stats.svg)
+```
+
+    
+
+---
+
 ![](./4-productive-time.svg)
 
 ```
